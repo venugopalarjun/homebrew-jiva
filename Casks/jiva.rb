@@ -1,6 +1,6 @@
 cask "jiva" do
-  version "0.1.5"
-  sha256 "434371f51554c9074f22db0facc4618688aa8f6fa5e6a1ab0a50d138480a92fb"
+  version "0.1.6"
+  sha256 "8f0250645816c6b7b5506b341fbe268e06456858f95646d01028072f331fb270"
 
   url "https://github.com/venugopalarjun/jiva/releases/latest/download/Jiva.dmg",
       verified: "github.com/venugopalarjun/jiva/"
